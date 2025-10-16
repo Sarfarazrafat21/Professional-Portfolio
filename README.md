@@ -1,5 +1,3 @@
-# Professional-Portfolio
-My project management portfolio and supporting documents for job applications.
 # Rafat Sarfaraz – Project Manager | Cloud & IT Enthusiast
 
 Welcome to my professional portfolio.  
